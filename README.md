@@ -16,8 +16,8 @@ Add a screenshot of your solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jamestorivor/QR-card)
-- Live Site URL: [Add live site URL here](https://jamestorivor.github.io/QR-card/)
+- Solution URL: [SOLUTION URL](https://github.com/jamestorivor/QR-card)
+- Live Site URL: [Project Page](https://jamestorivor.github.io/QR-card/)
 
 ## My process
 
